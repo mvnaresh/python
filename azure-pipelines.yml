@@ -91,7 +91,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "sample.py"
+- script: python "sum.py"
 
 
 
